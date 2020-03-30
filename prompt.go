@@ -294,3 +294,7 @@ func (p *Prompt) tearDown() {
 	}
 	p.renderer.TearDown()
 }
+// TearDown do the clean job
+func (p *Prompt) TearDown(){
+	p.tearDown()
+}

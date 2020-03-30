@@ -1,4 +1,4 @@
-module github.com/c-bata/go-prompt
+module github.com/chenjr15/go-prompt
 
 require (
 	github.com/mattn/go-colorable v0.0.9
